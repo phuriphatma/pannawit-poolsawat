@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pannawit-poolsawat.pages.dev/sitemap.xml
